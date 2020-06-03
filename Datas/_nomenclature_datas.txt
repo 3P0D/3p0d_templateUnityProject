@@ -1,0 +1,13 @@
+Here is a proposition of nomenclature for your datas:
+
+
+datas_(type_)nameName_var_00_a
+
+
+Mainly used for scriptable objects profiles, external table sheets, etc.
+
+
+Examples:
+> datas_player
+> datas_enemy_kamikaze_a
+> datas_item_currency_goldCoin

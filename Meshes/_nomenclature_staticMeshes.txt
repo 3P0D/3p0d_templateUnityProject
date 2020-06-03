@@ -1,0 +1,11 @@
+Here is a proposition of nomenclature for your static meshes:
+
+
+sm_target_nameName_var_00_a
+
+
+Examples:
+> sm_bg_forest_tree_tall_a
+> sm_bg_humanCity_kitchen_pot_01_a
+> sm_item_coin_gold
+> sm_item_crystal_01_a

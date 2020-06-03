@@ -1,0 +1,13 @@
+Here is a proposition of nomenclature for your skeletal meshes:
+
+
+sk_target_nameName_var_00_a
+
+
+Skeletal meshes are the meshes binded to a rig. That's it.
+
+
+Examples:
+> sk_hero_humanKnight_rank1
+> sk_boss_dragonKing_black
+> sk_enemy_mimic_chest_a

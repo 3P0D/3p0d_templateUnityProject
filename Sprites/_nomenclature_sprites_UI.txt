@@ -1,0 +1,13 @@
+Here is a proposition of nomenclature for your UI sprites:
+
+
+sprt_ui_type_nameName_var_00_a
+
+
+The type part of your name should be the the purpose of your assets, like a button, a pixelated text, a sliced background, etc. 
+
+
+Examples:
+> sprt_ui_button_round
+> sprt_ui_txt_titleLogo
+> sprt_ui_panel_menuBackground

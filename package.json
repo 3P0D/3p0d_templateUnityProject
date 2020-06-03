@@ -1,0 +1,10 @@
+{
+    "name": "be.3p0d.basicunityprojecttemplate",
+    "displayName": "3P0D's Basic Unity Project Template",
+    "version": "0.0.1",
+    "unity": "2019.3",
+    "description": "A very simple and basic template for a standard Unity project, with folders and some nomenclature examples. You can just copy/paste it in your project.",
+    "keywords": ["Script","Tool"],
+    "category": "Script",
+    "dependencies":{}
+  }

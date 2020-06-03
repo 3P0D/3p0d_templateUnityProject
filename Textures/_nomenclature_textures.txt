@@ -1,0 +1,19 @@
+Here is a proposition of nomenclature for your textures:
+
+
+tex_target_nameName_var_00_a_textureType
+
+
+The basic texture types you might use in your projects: 
+> albedo, normalMap, heightMap, ambientOcclusion, metalness, roughness/smoothness, alpha
+
+Some more specific maps you might use in your projects:
+> curvature, cavity, thickness, transluency, displacement, ...
+
+You can use abreviations for you maps, such as AO, NM, SMTH, MTL...
+
+
+Examples:
+> tex_humanMage_rank1_body_albedo
+> tex_humanMage_rank1_body_normalmap
+> tex_bg_flowers_marguerites_pack01_alpha

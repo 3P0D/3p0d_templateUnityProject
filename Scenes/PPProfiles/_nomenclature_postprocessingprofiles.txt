@@ -1,0 +1,13 @@
+Here is a proposition of nomenclature for your post processing profiles:
+
+
+ppp_sc_x_nameName_var_00_a
+
+
+The X is the number of your scene.
+
+
+Examples:
+> sc_0_startMenu
+> sc_1_game
+> sc_x_debug_createPrefabs_3P0D

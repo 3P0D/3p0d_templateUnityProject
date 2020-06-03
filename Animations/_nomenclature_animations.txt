@@ -1,0 +1,14 @@
+Here is THE nomenclature for your animations:
+
+
+nameName@attack_01
+
+
+You want to ALWAYS have your animations following this nomenclature.
+It is Unity's standard animation naming convention, so just stick with it please.
+
+
+Examples:
+> player@readyToAttack_2H
+> dragonKing@defeated
+> item@hovering_loop

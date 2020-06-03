@@ -1,0 +1,13 @@
+Here is a proposition of nomenclature for your FX sprites:
+
+
+sprt_fx_nameName_var_00_a_spriteType
+
+
+This nomenclature should be used for your FX sprites such as particles, decals, etc.
+Add the sprite type only if it is a spritesheet or an atlas.
+
+
+Examples: 
+> sprt_fx_roundedStar_tiny_spritesheet
+> sprt_fx_heart

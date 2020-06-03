@@ -1,0 +1,14 @@
+Here is a proposition of nomenclature for your prefabs:
+
+
+pfb_target_nameName_var_00_a
+
+
+Only rule: be as exhaustive as possible for the sake of your team.
+
+
+Examples: 
+> pfb_item_goldcoin_5
+> pfb_player
+> pfb_hero_humanKnight_blueGold
+> pfb_bg_forest_tree_tall_autumn_a

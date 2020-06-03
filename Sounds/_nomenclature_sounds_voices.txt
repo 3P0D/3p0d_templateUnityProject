@@ -1,0 +1,14 @@
+Here is a proposition of nomenclature for your voice over files:
+
+
+snd_vc_target_nameName_event_var_a_0000
+
+
+The numbers here is the order of the line if multiple ones has to be played one after ther other in a dialog voice over. 
+The letter here would be more of a variations of different possible voices, like if you had 5 different greetings for a npc.
+
+
+Examples:
+> snd_vc_npc_humanArchmage_greetings_A
+> snd_vc_enemy_orcWarlock_defeated_0002
+> snd_vc_boss_dragonKing_quest026_encounter_0006

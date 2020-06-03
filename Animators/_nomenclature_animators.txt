@@ -1,0 +1,10 @@
+Here is THE nomenclature for your animators:
+
+
+ac_target_nameName_var_00_a
+
+
+Examples:
+> ac_humanKnight
+> ac_enemy_orcWarlock
+> ac_playerCamera

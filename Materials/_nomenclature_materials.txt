@@ -1,0 +1,13 @@
+Here is a proposition of nomenclature for your materials:
+
+
+mat_target_nameName_var_00_a
+
+
+The target should be about with what use that material. If it is binded to a specific mesh, multiple meshes, a terrain, etc... or on what part of a mesh it has to be used if there are multiple material channels on a single mesh.
+
+
+Examples: 
+> mat_player_body_wounded
+> mat_enemy_orc_body_A
+> mat_bg_humanCity_trees_autumn_01

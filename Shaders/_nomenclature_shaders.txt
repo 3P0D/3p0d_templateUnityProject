@@ -1,0 +1,14 @@
+Here is a proposition of nomenclature for your shaders:
+
+
+shd_nameName_var_00_a
+
+
+There are no specific things to tell about shaders, but do try to be as meaningful as possible in your names if you have multiples ones.
+wSomething would be to specify some particular map/node needed/present in your shader.
+
+Examples:
+> shd_foliage_seasonSwap_wAlpha
+> shd_standard_wSSS
+> shd_fx_standard_bleeding
+> shd_fx_dissolveBurn

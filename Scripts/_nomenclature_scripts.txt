@@ -1,0 +1,14 @@
+Here are propositions of nomenclature for your scripts:
+
+
+Target_NameName
+NameName
+
+
+... Honestly? This is how I do dev. But I ain't one. So ask the devs.
+
+
+Examples:
+> Player_Locomotion
+> Manager_Scoring
+> RandomSoundPlayingInBackground

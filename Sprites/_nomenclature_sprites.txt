@@ -1,0 +1,14 @@
+Here is a proposition of nomenclature for your sprites:
+
+
+sprt_target_nameName_var_00_a_spriteType
+
+
+This nomenclature should be used for your assets in a 2D game such as atlasses, spritesheets, etc.
+The sprite type would be the either atlas, spritesheet or single.
+
+
+Examples: 
+> sprt_item_currency_goldcoin_single
+> sprt_enemy_sprite_orcWarlock_rank1_red_spritesheet
+> sprt_bg_forest_trees_autumn_A_atlas
