@@ -1,4 +1,4 @@
-Here is THE nomenclature for your animators:
+Here is the nomenclature for your animators:
 
 
 ac_target_nameName_var_00_a
