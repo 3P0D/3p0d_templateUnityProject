@@ -1,0 +1,15 @@
+Here is a proposition of nomenclature for your voice over files:
+
+
+snd_vc_talkerCategory_talkerName[_context]_event[_lang][_var][_a][_0000]
+
+
+The numbers here is the order of the line if multiple ones has to be played one after the other in a dialog voice over. 
+The letter here would be more like a variations of different possible voices, like if you had 5 different greetings for a npc.
+If no dialog sequence is required, just ignore those numbers
+No need of context if the voice is emitted in generic context
+
+Examples:
+> snd_vc_npc_humanArchmage_greetings_en_a
+> snd_vc_enemy_orcWarlock_defeated_whisper
+> snd_vc_boss_dragonKing_quest026_encounter_fr_0006

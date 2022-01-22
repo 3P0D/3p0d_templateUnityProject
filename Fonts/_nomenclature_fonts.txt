@@ -1,7 +1,7 @@
 Here is a proposition of nomenclature for your fonts:
 
 
-fnt_(TMP_)nameName_var
+fnt[_TMP]_nameName_var
 
 
 Just your font names. Add "TMP" between fnt and nameName if your are using TextMeshPro and you converted a font for it.

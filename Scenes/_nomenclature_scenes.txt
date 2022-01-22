@@ -6,9 +6,14 @@ sc_x_nameName
 
 You want to have the place of your scene in the game scene hierarchy to make it easier for you and your team to work. 
 I use X as a tag for unused, debug or temporary scenes.
+If it is a debug scene, prefer this naming:
+
+sc_x[_nameName]_SceneOwner
+
+The x has to stay there
 
 
 Examples:
 > sc_0_startMenu
 > sc_1_game
-> sc_X_debug_createPrefabs_3P0D
+> sc_x_debug_createPrefabs_3P0D

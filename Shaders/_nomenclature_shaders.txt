@@ -1,7 +1,7 @@
 Here is a proposition of nomenclature for your shaders:
 
 
-shd_nameName_var_00_a
+shd_nameName[_var][_00][_a]
 
 
 There are no specific things to tell about shaders, but do try to be as meaningful as possible in your names if you have multiples ones.
