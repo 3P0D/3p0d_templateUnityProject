@@ -1,7 +1,7 @@
 Here is a proposition of nomenclature for your materials:
 
 
-mat_target_nameName_var_00_a
+mat_target[_nameName][_var][_00][_a]
 
 
 The target should be about with what use that material. If it is binded to a specific mesh, multiple meshes, a terrain, etc... or on what part of a mesh it has to be used if there are multiple material channels on a single mesh.

@@ -1,0 +1,22 @@
+Here is a proposition of nomenclature for your ambiance sounds:
+
+
+snd_amb_zone_nameName[_var][_00][_a]_type[_loop]
+
+
+There are several types of ambiances
+- random: emit randomly an ambiance globally. You may assimilate this type with sfx but it's not ! Sfx plays in reaction of something, an ambiance dan't but add something to the game context.
+For example: thunder is an sfx if you sea the lightningbolt before it but is a random ambiance if you don't
+Note that randoms will often have variances
+- spotted: emit an ambiance spatialize in the game scene. A fireplace emits a spotted ambiance of fire sound
+- spottedRandom: particular type of ambiance that combine both random and spotted specifications
+- global: a room tone is a global ambiance, it remains the same as long as the player stays in the same context
+
+Note that ambiance are generally looping clips, except for some random ambiances
+
+
+Examples:
+> snd_amb_outdoor_thunder_far_random
+> snd_amb_kitchen_boilingWater_big_spotted_loop
+> snd_amb_forest_birdSong_b_spottedRandom
+> snd_amb_bathroom_roomTone_global_loop

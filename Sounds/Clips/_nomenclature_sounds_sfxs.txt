@@ -1,0 +1,13 @@
+Here is a proposition of nomenclature for your FX sounds:
+
+
+snd_sfx_target_nameName_action[_var][_00][_a]
+
+
+About the action, you would like to have a very meaningful and recognizable name as it will help find it quickly in the project, just like an animation.
+
+
+Examples:
+> snd_sfx_boss_dragonKing_hurt_a
+> snd_sfx_player_emote_yell_hurray
+> snd_sfx_item_gold_isPickedUp

@@ -1,10 +1,14 @@
 Here is a proposition of nomenclature for your post processing profiles:
 
 
-ppp_sc_x_nameName_var_00_a
+ppp_sc_x[_nameName][_var][_00][_a]
 
 
 The X is the number of your scene.
+If the scene is a debug one, prefer this naming:
+PPP_sc_x[_nameName][_var][_00][_a]_sceneOwner
+
+The x has to stay there as this is a debug scene
 
 
 Examples:

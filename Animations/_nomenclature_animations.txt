@@ -1,7 +1,7 @@
 Here is THE nomenclature for your animations:
 
 
-nameName@attack_01
+nameName@attack[_00]
 
 
 It is Unity's standard animation naming convention.

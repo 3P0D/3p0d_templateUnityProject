@@ -1,0 +1,14 @@
+Here is a proposition of nomenclature for your music files:
+
+
+snd_mus_target[_nameNamevar][_loop][_00][_a]
+
+
+The target would be the part of the game where the music would be used. 
+This is useful when it plays in a specific situation such as a boss fight theme, or a zone, or an event incoming...
+
+
+Examples:
+> snd_mus_bossFight_intro
+> snd_mus_bossFight_phase3_loop
+> snd_mus_bg_forest_enchantedSpring_loop_a

@@ -1,7 +1,7 @@
 Here is a proposition of nomenclature for your prefabs:
 
 
-pfb_target_nameName_var_00_a
+pfb_target[_nameName][_var][_00][_a]
 
 
 Only rule: be as exhaustive as possible for the sake of your team.
